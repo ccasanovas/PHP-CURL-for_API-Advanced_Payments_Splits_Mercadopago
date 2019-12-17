@@ -53,7 +53,7 @@
                 </div>
                 </form>
 <script>
-    window.Mercadopago.setPublishableKey("APP_USR-b25bf7d2-0c32-49f4-ad58-8736072fcb54");
+    window.Mercadopago.setPublishableKey("<ACCESS_TOKEN>");
     window.Mercadopago.getIdentificationTypes();
     function addEvent(to, type, fn){ 
         if(document.addEventListener){
