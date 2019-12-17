@@ -4,7 +4,7 @@
 	<title></title>
 </head>
 <body>
-<form action="createcharge2.php" method="post" id="pay" class="" name="pay" >
+<form action="createcharge.php" method="post" id="pay" class="" name="pay" >
                 <div class="col-sm-12">
                   <h2>Pago</h2>
                   <p>Realice su pago y espere los productos en la comodidad de su hogar.</p>
