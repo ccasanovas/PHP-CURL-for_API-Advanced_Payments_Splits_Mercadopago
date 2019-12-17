@@ -86,7 +86,7 @@ foreach ($consultaBD as $i => $itemObject) {
 }  
 
 // Declaración de disbursement para un único usuario
-if ($consultaBD == "1" {
+if ($consultaBD == "1") {
  $particion = array();
  $itemObject = new stdClass();
  $itemObject->amount = $trans_monto_usuario;
